@@ -1,0 +1,4769 @@
+nce": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2000-E-2000-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2000-E-2000-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2000
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2000-E-2000-4.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC"
+            }, " ", {
+                "highlight": 2000
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2000-E-2000-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2000"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2000
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2000-E-2000-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2000
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2000-E-2000-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2000,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2000-4\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 2,
+        "uri": "/odesi/cora-dq1980-E-1980-4.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1980-E-1980-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ4"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 4
+            }, " ", {
+                "highlight": "December"
+            }, " ", {
+                "highlight": 1980
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1980"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1980
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1980
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1980-E-1980-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1980,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ4 [Decima Quarterly 4 December 1980]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 3,
+        "uri": "/odesi/cora-eiem-E-1998.xml",
+        "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-eiem-E-1998.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "International"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": 1998
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "eiem"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1998
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1998
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "International"
+            }, " ", {
+                "highlight": "Ltd"
+            }, ".\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eiem-E-1998.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics International Environmental Monitors (EIEM) is a syndicated annual survey of global public opinion on a variety of environmental and natural resource issues. It is based on public opinion surveys carried out in 24+ countries around the world, and conducted since 1997.\nThe findings of the 1998 Survey are based on the results of face-to face or telephone interviews with representative samples of  about 1,000 citizens, in each of 30 countries on all continents, representing over 68 percent of the world's population.  \nEnvironics 1998 International Environmental Monitor survey  was conducted in the following countries: Argentina,  Australia, Brazil, Canada, Chile, China, Colombia, Finland, France, Germany, Great-Britain, Greece, Hungary, India, Indonesia, Italy, Japan, Kazakhstan, Korea, Mexico,  New Zealand, Nigeria, Poland, Russia, Spain, South Africa, Turkey, United States, Uraguay, Venezuela.\nResearch was conducted by respected social research institutes in each country between January 21, 1998 and May 26, 1998. \nIn Canada, the survey was conducted by Environics Research Group Ltd.  It consisted of a nation-wide telephone survey with a sample of 1,500 individuals, 18 years and older carried out between January 21 and February 4, 1998.\nSome of the important topics in the EIEM 1998 are:\n-Environmental Concerns\n-Energy Issues\n-Views on Technology\n-Personal Action\n-Governance Issues\n-Business and the Environment\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics International Ltd.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics International Ltd.\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics International Ltd.\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1998,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics International Environmental Monitor, 1998\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 4,
+        "uri": "/odesi/cora-cr1992-E-1992-7.xml",
+        "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr1992-E-1992-7.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR9207"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 7
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 7
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1992-E-1992-7.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR9207 [CROP Political Survey 1992-07]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 5,
+        "uri": "/odesi/cora-efc1981-E-1981-3.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1981-E-1981-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1981
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC813"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1981"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1981
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1981
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1981,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1981-3\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 6,
+        "uri": "/odesi/cora-efo1995-E-1995-4.xml",
+        "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo1995-E-1995-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO954"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 4
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo1995"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1996
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1995-E-1995-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1996,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO954 [Environics Focus Ontario 1995-4]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 7,
+        "uri": "/odesi/cora-cr2004-E-2004-9.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2004-E-2004-9.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0409"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 9
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2004"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 9
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2004
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-9.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2004,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0409 [CROP Political Survey 2004-09]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 8,
+        "uri": "/odesi/cora-cr2001-E-2001-11.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2001-E-2001-11.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0111"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 11
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2001"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 11
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2001
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2001-E-2001-11.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2001,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0111 [CROP Political Survey 2001-11]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 9,
+        "uri": "/odesi/cora-eem1992-E-1992-4.xml",
+        "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-eem1992-E-1992-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": "Fall"
+            }, " ", {
+                "highlight": 1992
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "eem1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1992-E-1992-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Environmental Monitor (EEM) is a public opinion survey of Canadian citizens on attitudes toward environmental and natural resource issues. Currently, data surveys are available through the Canadian Opinion Research Archive from 1987. Environics Environmental Monitor, 1992-4 is a telephone survey of 1,507 adult Canadians conducted during the period from December 18, 1992 to January 28, 1993.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Environmental Monitor, 1992-4\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 10,
+        "uri": "/odesi/cora-pwgsc-cell-E-2008.xml",
+        "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-pwgsc-cell-E-2008.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Web"
+            }, " ", {
+                "highlight": 2
+            }, ".", {
+                "highlight": 0
+            }, "  ", {
+                "highlight": "Cellular"
+            }, " ", {
+                "highlight": "Telephone"
+            }, " ", {
+                "highlight": "Survey"
+            }, ", ", {
+                "highlight": 2008
+            }, " [", {
+                "highlight": "Canada"
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "pwgsc"
+            }, "-", {
+                "highlight": "cell"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2008
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2008
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "EKOS"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Associates"
+            }, " ", {
+                "highlight": "Inc"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-pwgsc-cell-E-2008.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nIn January 2008, Public Works and Government services Canada (PWGSC) commissioned Ekos Research Associates to conduct a survey of Canadians whose sole residential telephone service is provided by cell phone rather than by the more traditional landline telephone.  The survey had two overall objectives.  The first objective was to characterize the demographic attributes of these cell-phone-only households relative to characteristics of Canadian households more generally, and to measure the responses of these cell-phone-only respondents to a number of attitudinal questions. A second objective of the survey takes advantage of the fact that the WEB 2.0 questions used here were a subset of those used in two larger surveys conducted by Agriculture and Agri-Food Canada (AAFC) in the Fall of 2007.  One of these AAFC surveys was conducted through the traditional landline telephone and the other survey was conducted over the Internet with Canadian residents recruited during visits to Government of Canada Websites.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEKOS Research Associates Inc\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nPubllic Works and Government Services Canada (PWGSC)\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEKOS Research Associates Inc\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEKOS Research Associates Inc\n",
+            "metadata-type": "constraint"
+        }, {
+            "prodDate": "\n2008-12-04\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2008,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nWeb 2.0  Cellular Telephone Survey, 2008 [Canada]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 11,
+        "uri": "/odesi/cora-cr2005-E-2005-3.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2005-E-2005-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0503"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 3
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2005"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2005
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2005,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0503 [CROP Political Survey 2005-03]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 12,
+        "uri": "/odesi/cora-crsc1993-E-1993.xml",
+        "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-crsc1993-E-1993.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Socio"
+            }, "-", {
+                "highlight": "Cultural"
+            }, " ", {
+                "highlight": "Survey"
+            }, ", ", {
+                "highlight": 1993
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "crsc1993"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1993
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1993
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-crsc1993-E-1993.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Socio-Cultural surveys are part of a major series of comparative international studies of basic values. Parallel surveys are done each year in several European countries and the United States. CROP Inc. began this series in Canada in 1983. These surveys investigate a wide range of basic attitudes- social, cultural, economic and political.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1993,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCROP Socio-Cultural Survey, 1993\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 13,
+        "uri": "/odesi/cora-efc2011-E-2011.xml",
+        "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2011-E-2011.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2011
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2011"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2011
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2011
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "The"
+            }, " ", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Institute"
+            }, " ", {
+                "highlight": "for"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2011-E-2011.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe second annual Focus Canada survey was conducted in fall 2011 to take the pulse of Canadians on a wide range of relevant policy areas and issues facing the country, updating key trends and exploring new issues such as public sector unions, the effectiveness of governments and the role of religion in the lives of Canadians today. \nThe 2011 survey was conducted by Environics Research and was based on telephone interviews with a representative sample of 1,500 Canadians (aged 18 and over) between November 21 and December 14, 2011. \nThis year's survey received sponsorship support from the Canadian Opinion Research Archive (CORA) and the S-Vox Foundation.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "The Environics Institute, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "The Environics Institute, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nThe Environics Institute for Survey Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nThe Environics Institute for Survey Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nThe Environics Institute for Survey Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "prodDate": "\n2012-03-07\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2011,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2011\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 14,
+        "uri": "/odesi/cora-efc2004-E-2004-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2004-E-2004-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2004"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2004
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2004,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2004-1\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 15,
+        "uri": "/odesi/cora-efo1999-E-1999-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo1999-E-1999-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO991"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 1
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo1999"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1999
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1999,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO991 [Environics Focus Ontario 1999-1]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 16,
+        "uri": "/odesi/cora-dq1990-E-1990-43.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1990-E-1990-43.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ43"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 43
+            }, " ", {
+                "highlight": "September"
+            }, " ", {
+                "highlight": 1990
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1990"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1990
+            }, "-", {
+                "highlight": 43
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1990
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1990-E-1990-43.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1990,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ43 [Decima Quarterly 43 September 1990]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 17,
+        "uri": "/odesi/cora-efo2001-E-2001-2.xml",
+        "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo2001-E-2001-2.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO012"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 2
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo2001"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2001
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2001,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO012 [Environics Focus Ontario 2001-2]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 18,
+        "uri": "/odesi/cora-cr1989-E-1989-5.xml",
+        "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr1989-E-1989-5.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR8905"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 5
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr1989"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 5
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1989
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-5.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1989,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR8905 [CROP Political Survey 1989-05]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 19,
+        "uri": "/odesi/cora-efc1995-E-1995-2.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1995-E-1995-2.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1995"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1995
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1995,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1995-2\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 20,
+        "uri": "/odesi/cora-cr1989-E-1989-09B.xml",
+        "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr1989-E-1989-09B.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR8909B"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": "09B"
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr1989"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": "09B"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1989
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1989-E-1989-09B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1989,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR8909B [CROP Political Survey 1989-09B]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 21,
+        "uri": "/odesi/cora-efc2007-E-2007-4.xml",
+        "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2007-E-2007-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2007
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2007"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2007
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2007
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2007-E-2007-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2007,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2007-4\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 22,
+        "uri": "/odesi/cora-dq1991-E-1991-45.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1991-E-1991-45.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ45"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 45
+            }, " ", {
+                "highlight": "March"
+            }, " ", {
+                "highlight": 1991
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1991"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1991
+            }, "-", {
+                "highlight": 45
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1991
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-45.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1991,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ45 [Decima Quarterly 45 March 1991]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 23,
+        "uri": "/odesi/cora-efc1988-E-1988-3.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1988-E-1988-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1988
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1988"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1988
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1988
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1988-E-1988-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1988,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1988-3\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 24,
+        "uri": "/odesi/cora-eem1989-E-1989-2.xml",
+        "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-eem1989-E-1989-2.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": "Spring"
+            }, " ", {
+                "highlight": 1989
+            }, ", ", {
+                "highlight": "Waste"
+            }, " ", {
+                "highlight": "Management"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "eem1989"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1989
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Environmental Monitor (EEM) is a public opinion survey of Canadian citizens on attitudes toward environmental and natural resource issues. Currently, data surveys are available through the Canadian Opinion Research Archive from 1987. Environics Environmental Monitor, 1989-2 is a telephone survey of 1,510 adult Canadians conducted during the period from May 2 to May 15, 1989. Title: Waste Management\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1989,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Environmental Monitor, 1989-2\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 25,
+        "uri": "/odesi/cora-efo1992-E-1992-3.xml",
+        "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo1992-E-1992-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO923"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 3
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1992-E-1992-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO923 [Environics Focus Ontario 1992-3]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 26,
+        "uri": "/odesi/cora-dq1992-E-1992-51.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1992-E-1992-51.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ51"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 51
+            }, " ", {
+                "highlight": "September"
+            }, " ", {
+                "highlight": 1992
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 51
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-51.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ51 [Decima Quarterly 51 September 1992]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 27,
+        "uri": "/odesi/cora-cr2002-E-2002-02B.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2002-E-2002-02B.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0202B"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2002
+            }, "-", {
+                "highlight": "02B"
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2002"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2002
+            }, "-", {
+                "highlight": "02B"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2002
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2002-E-2002-02B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2002,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0202B [CROP Political Survey 2002-02B]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 28,
+        "uri": "/odesi/cora-efc1981-E-1981-5.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1981-E-1981-5.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1981
+            }, "-", {
+                "highlight": 5
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC815"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1981"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1981
+            }, "-", {
+                "highlight": 5
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1981
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1981-E-1981-5.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1981,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1981-5\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 29,
+        "uri": "/odesi/cora-dq1993-E-1993-53.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1993-E-1993-53.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ53"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 53
+            }, " ", {
+                "highlight": "March"
+            }, " ", {
+                "highlight": 1993
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1993"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1993
+            }, "-", {
+                "highlight": 53
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1993
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-53.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1993,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ53 [Decima Quarterly 53 March 1993]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 30,
+        "uri": "/odesi/cora-dq1995-E-1995-61.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1995-E-1995-61.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ61"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 61
+            }, " ", {
+                "highlight": "Spring"
+            }, " ", {
+                "highlight": 1995
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1995"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 61
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1995
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1995-E-1995-61.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1995,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ61 [Decima Quarterly 61 Spring 1995]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 31,
+        "uri": "/odesi/cora-cr2005-E-2005-5.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2005-E-2005-5.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0505"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 5
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2005"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 5
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2005
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2005-E-2005-5.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2005,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0505 [CROP Political Survey 2005-05]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 32,
+        "uri": "/odesi/cora-cr1991-E-1991-09B.xml",
+        "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr1991-E-1991-09B.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR9109B"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 1991
+            }, "-", {
+                "highlight": "09B"
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr1991"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1991
+            }, "-", {
+                "highlight": "09B"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1991
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr1991-E-1991-09B.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1991,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR9109B [CROP Political Survey 1991-09B]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 33,
+        "uri": "/odesi/cora-efc1992-E-1992-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1992-E-1992-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1992-E-1992-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1992-1\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 34,
+        "uri": "/odesi/cora-efo1989-E-1989-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo1989-E-1989-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO891"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 1
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo1989"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1989
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1989-E-1989-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1989,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO891 [Environics Focus Ontario 1989-1]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 35,
+        "uri": "/odesi/cora-efc2004-E-2004-3.xml",
+        "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2004-E-2004-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2004"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2004
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2004-E-2004-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2004,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2004-3\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 36,
+        "uri": "/odesi/cora-efc1985-E-1985-2.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1985-E-1985-2.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1985
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1985"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1985
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1985
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1985-E-1985-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1985,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1985-2\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 37,
+        "uri": "/odesi/cora-efo1999-E-1999-3.xml",
+        "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo1999-E-1999-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO993"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 3
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo1999"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1999
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo1999-E-1999-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1999,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO993 [Environics Focus Ontario 1999-3]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 38,
+        "uri": "/odesi/cora-efo2001-E-2001-4.xml",
+        "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo2001-E-2001-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO014"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 4
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo2001"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2002
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2001-E-2001-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2002,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO014 [Environics Focus Ontario 2001-4]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 39,
+        "uri": "/odesi/cora-efc1995-E-1995-4.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1995-E-1995-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1995"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1995
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1995
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1995-E-1995-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1995,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1995-4\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 40,
+        "uri": "/odesi/cora-dq1991-E-1991-47.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1991-E-1991-47.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ47"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 47
+            }, " ", {
+                "highlight": "September"
+            }, " ", {
+                "highlight": 1991
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1991"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1991
+            }, "-", {
+                "highlight": 47
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1991
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1991-E-1991-47.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1991,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ47 [Decima Quarterly 47 September 1991]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 41,
+        "uri": "/odesi/cora-eem1989-E-1989-4.xml",
+        "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-eem1989-E-1989-4.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": "Fall"
+            }, " ", {
+                "highlight": 1989
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "eem1989"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1989
+            }, "-", {
+                "highlight": 4
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1989
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1989-E-1989-4.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Environmental Monitor (EEM) is a public opinion survey of Canadian citizens on attitudes toward environmental and natural resource issues. Currently, data surveys are available through the Canadian Opinion Research Archive from 1987. Environics Environmental Monitor, 1989-4 is a telephone survey of 1,518 adult Canadians conducted during the period from November 15 to December 3, 1989.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1989,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Environmental Monitor, 1989-4\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 42,
+        "uri": "/odesi/cora-eem1997-E-1997-2-3.xml",
+        "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-eem1997-E-1997-2-3.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Environmental"
+            }, " ", {
+                "highlight": "Monitor"
+            }, ", ", {
+                "highlight": 1997
+            }, "-", {
+                "highlight": 2
+            }, "/", {
+                "highlight": 1997
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "eem1997"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1997
+            }, "-", {
+                "highlight": 2
+            }, "-", {
+                "highlight": 3
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1997
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-eem1997-E-1997-2-3.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Environmental Monitor (EEM) is a public opinion survey of Canadian citizens. Currently, data are available through the Canadian Opinion Research Archive from 1987. EEM is produced by Environics Research Group Limited, Toronto, Ontario. Environics Environmental Monitor, 1997-2/1997-3 is a telephone survey of 1,501 adult Canadians conducted during the period from July 21, to July 31, 1997.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1997,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Environmental Monitor, 1997-2/1997-3\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 43,
+        "uri": "/odesi/cora-dq1992-E-1992-49.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1992-E-1992-49.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ49"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 49
+            }, " ", {
+                "highlight": "March"
+            }, " ", {
+                "highlight": 1992
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1992"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1992
+            }, "-", {
+                "highlight": 49
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1992
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1992-E-1992-49.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1992,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ49 [Decima Quarterly 49 March 1992]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 44,
+        "uri": "/odesi/cora-dq1993-E-1993-55.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1993-E-1993-55.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ55"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 55
+            }, " ", {
+                "highlight": "September"
+            }, " ", {
+                "highlight": 1993
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1993"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1993
+            }, "-", {
+                "highlight": 55
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1993
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1993-E-1993-55.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1993,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ55 [Decima Quarterly 55 September 1993]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 45,
+        "uri": "/odesi/cora-cr2004-E-2004-2a.xml",
+        "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-cr2004-E-2004-2a.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "CR0402a"
+            }, " [", {
+                "highlight": "CROP"
+            }, " ", {
+                "highlight": "Political"
+            }, " ", {
+                "highlight": "Survey"
+            }, " ", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": 2
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "cr2004"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2004
+            }, "-", {
+                "highlight": "2a"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2004
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "CROP"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-cr2004-E-2004-2a.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe CROP Inc. political surveys in the Canadian Opinion Research Archive are focussed primarily on the political attitudes of residents in Quebec. The surveys were conducted on an occasional basis depending on events in the province. The are concentrated, in particular, around events in constitutional negotiations and elections. The surveys available for research begin in 1977. CROP Inc. is located in Montreal, Quebec.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "CROP Inc., Montreal, QB",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCROP\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nCROP\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2004,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nCR0402a [CROP Political Survey 2004-02]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 46,
+        "uri": "/odesi/cora-dq1994-E-1994-57.xml",
+        "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-dq1994-E-1994-57.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "DQ57"
+            }, " [", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Quarterly"
+            }, " ", {
+                "highlight": 57
+            }, " ", {
+                "highlight": "March"
+            }, " ", {
+                "highlight": 1994
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "dq1994"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1994
+            }, "-", {
+                "highlight": 57
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1994
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Decima"
+            }, " ", {
+                "highlight": "Research"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-dq1994-E-1994-57.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nThe Decima Quarterly is a survey of public attitudes of Canadians on a wide range of matters related to public affairs, which was conducted every three months from the first quarter of 1980 until the first quarter of 1995. Each survey involves interviews of some 150+ questions with a random sample size of 1,500 Canadian citizens.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Decima Research, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nDecima Research\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nDecima Research\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1994,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nDQ57 [Decima Quarterly 57 March 1994]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 47,
+        "uri": "/odesi/cora-efo2005-E-2005-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efo2005-E-2005-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "EFO051"
+            }, " [", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Ontario"
+            }, " ", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 1
+            }, "]\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efo2005"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2005
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2005
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efo2005-E-2005-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[2]",
+            "match-text": ["\n", {
+                "highlight": "Canadian"
+            }, " ", {
+                "highlight": "Opinion"
+            }, " ", {
+                "highlight": "Research"
+            }, " ", {
+                "highlight": "Archive"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Ontario (EFO) is a regular public opinion survey of Ontario residents which has been in the field since the 1986. EFO includes items which tap Canadian partisan loyalties. EFO is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2005,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEFO051 [Environics Focus Ontario 2005-1]\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 48,
+        "uri": "/odesi/cora-efc1999-E-1999-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1999-E-1999-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC"
+            }, " ", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1999"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1999
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1999
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1999-E-1999-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1999,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1999-1\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 49,
+        "uri": "/odesi/cora-efc2001-E-2001-2.xml",
+        "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc2001-E-2001-2.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC"
+            }, " ", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc2001"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 2001
+            }, "-", {
+                "highlight": 2
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 2001
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc2001-E-2001-2.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 2001,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 2001-2\n",
+            "metadata-type": "constraint"
+        }]
+    }, {
+        "index": 50,
+        "uri": "/odesi/cora-efc1982-E-1982-1.xml",
+        "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook",
+        "score": 0,
+        "confidence": 0,
+        "fitness": 0,
+        "href": "/v1/documents?uri=%2Fodesi%2Fcora-efc1982-E-1982-1.xml",
+        "mimetype": "application/xml",
+        "format": "xml",
+        "matches": [{
+            "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook/docDscr/citation/titlStmt/titl",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, " ", {
+                "highlight": "Focus"
+            }, " ", {
+                "highlight": "Canada"
+            }, " ", {
+                "highlight": 1982
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook/docDscr/citation/titlStmt/altTitl",
+            "match-text": ["\n", {
+                "highlight": "EFC821"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook/docDscr/citation/titlStmt/IDNo",
+            "match-text": ["\n", {
+                "highlight": "cora"
+            }, "-", {
+                "highlight": "efc1982"
+            }, "-", {
+                "highlight": "E"
+            }, "-", {
+                "highlight": 1982
+            }, "-", {
+                "highlight": 1
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook/docDscr/citation/titlStmt",
+            "match-text": ["\n", {
+                "highlight": 1981
+            }, "\n", {
+                "highlight": "en"
+            }, "\n"]
+        }, {
+            "path": "fn:doc(\"/odesi/cora-efc1982-E-1982-1.xml\")/codeBook/docDscr/citation/rspStmt/AuthEnty[1]",
+            "match-text": ["\n", {
+                "highlight": "Environics"
+            }, "\n"]
+        }],
+        "metadata": [{
+            "abstract": "\nEnvironics Focus Canada (EFC) is a regular public opinion survey of Canadian citizens which has been in the field since the mid-1970s. Currently, data are available through the Canadian Opinion Research Archive from mid-1978. EFC includes items which tap Canadian partisan loyalties at both the federal and provincial levels. EFC is produced by Environics Research Group Limited, Toronto, Ontario.\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Queen's University, Kingston, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty_affiliation": "Environics Research Group, Toronto, ON",
+            "metadata-type": "attribute"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nCanadian Opinion Research Archive\n",
+            "metadata-type": "element"
+        }, {
+            "AuthEnty": "\nEnvironics\n",
+            "metadata-type": "element"
+        }, {
+            "producer": "\nEnvironics\n",
+            "metadata-type": "constraint"
+        }, {
+            "SE-facet": "Environics Focus Canada",
+            "metadata-type": "constraint"
+        }, {
+            "date": 1981,
+            "metadata-type": "constraint"
+        }, {
+            "TI-facet": "\nEnvironics Focus Canada 1982-1\n",
+            "metadata-type": "constraint"
+        }]
+    }],
+    "facets": {
+        "keyword": {
+            "type": "xs:string",
+            "facetValues": [{
+                "name": "candidate qualities",
+                "count": 1,
+                "value": "candidate qualities"
+            }, {
+                "name": "city council candidate",
+                "count": 1,
+                "value": "city council candidate"
+            }, {
+                "name": "city councillor",
+                "count": 1,
+                "value": "city councillor"
+            }, {
+                "name": "doug ford",
+                "count": 1,
+                "value": "doug ford"
+            }, {
+                "name": "economy",
+                "count": 1,
+                "value": "economy"
+            }, {
+                "name": "election",
+                "count": 1,
+                "value": "election"
+            }, {
+                "name": "federal politics",
+                "count": 1,
+                "value": "federal politics"
+            }, {
+                "name": "finances",
+                "count": 1,
+                "value": "finances"
+            }, {
+                "name": "geographic identity",
+                "count": 1,
+                "value": "geographic identity"
+            }, {
+                "name": "john tory",
+                "count": 1,
+                "value": "john tory"
+            }, {
+                "name": "mayor",
+                "count": 1,
+                "value": "mayor"
+            }, {
+                "name": "mayoral candidate",
+                "count": 1,
+                "value": "mayoral candidate"
+            }, {
+                "name": "municipal politics",
+                "count": 1,
+                "value": "municipal politics"
+            }, {
+                "name": "olivia chow",
+                "count": 1,
+                "value": "olivia chow"
+            }, {
+                "name": "political alignment",
+                "count": 1,
+                "value": "political alignment"
+            }, {
+                "name": "property tax",
+                "count": 1,
+                "value": "property tax"
+            }, {
+                "name": "provincial politics",
+                "count": 1,
+                "value": "provincial politics"
+            }, {
+                "name": "public transity",
+                "count": 1,
+                "value": "public transity"
+            }, {
+                "name": "rob ford",
+                "count": 1,
+                "value": "rob ford"
+            }, {
+                "name": "social housing",
+                "count": 1,
+                "value": "social housing"
+            }]
+        }
+    },
+    "qtext": "((*)) AND (coll:cora)",
+    "report": "(cts:search(/codeBook, cts:and-query((cts:word-query(\"*\", (\"case-insensitive\",\"diacritic-insensitive\",\"punctuation-insensitive\",\"wildcarded\",\"lang=en\"), 1), cts:collection-query(\"http://scholarsportal.info/cora\")), ()), (\"score-logtfidf\",\"faceted\",cts:score-order(\"descending\")), 1))[1 to 10000]",
+    "metrics": {
+        "query-resolution-time": "PT0.281832S",
+        "facet-resolution-time": "PT0.004434S",
+        "snippet-resolution-time": "PT6.761085S",
+        "metadata-resolution-time": "PT2.560078S",
+        "total-time": "PT10.059112S"
+    }
+}
