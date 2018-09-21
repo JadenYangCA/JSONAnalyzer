@@ -1,4 +1,4 @@
-package github.com.jadenyangca.analyzer.impl;
+package com.github.jadenyangca.analyzer.impl;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,8 +12,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.alibaba.fastjson.JSONReader;
-
-import github.com.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
+import com.github.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
 
 /**
  * Use FastJSON to count metadata types efficiently if JSON file is huge, which can avoid java.lang.OutOfMemoryError.

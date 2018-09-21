@@ -1,22 +1,18 @@
-package github.com.jadenyangca.analyzer.main;
+package com.github.jadenyangca.analyzer.main;
 
 import java.io.File;
 import java.util.Map;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import github.com.jadenyangca.analyzer.factory.JSONStringCounterFactory;
-import github.com.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
-import github.com.jadenyangca.analyzer.utils.CounterUtil;
+import com.github.jadenyangca.analyzer.factory.JSONStringCounterFactory;
+import com.github.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
+import com.github.jadenyangca.analyzer.utils.CounterUtil;
 
 /**
  * This class provides an efficient way to analyze JSON string in the file.
- * 
  * @author Jaden
  */
 public class JSONAnalyzer {
-	
-
 	/**
 	 * @param args arg0- file path of JSON file, arg1- fast or regex 
 	 * 			   fast - Use FastJSON to count metadata types efficiently if JSON file is huge, which can avoid java.lang.OutOfMemoryError.
@@ -45,7 +41,7 @@ public class JSONAnalyzer {
 			// get counter instance
 			JSONStringCounterInterface counter = JSONStringCounterFactory.getInstance(mod);
 			if (counter == null) {
-				logger.error("* the 2nd argument must be fast or regex");
+				logger.error("* the 2nd argument must be fast or regex, or the configuration is not right.");
 				return;
 			}
 

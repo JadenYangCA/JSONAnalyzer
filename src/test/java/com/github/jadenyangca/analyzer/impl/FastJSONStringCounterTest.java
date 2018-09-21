@@ -1,11 +1,12 @@
-package github.com.jadenyangca.analyzer.impl;
+package com.github.jadenyangca.analyzer.impl;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.Map;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import github.com.jadenyangca.analyzer.utils.CounterUtil;
+import com.github.jadenyangca.analyzer.impl.FastJSONStringCounter;
+import com.github.jadenyangca.analyzer.utils.CounterUtil;
 
 /**
  * test cases for FastJSONStringCounter

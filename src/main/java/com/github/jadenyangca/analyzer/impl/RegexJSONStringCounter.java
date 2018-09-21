@@ -1,4 +1,4 @@
-package github.com.jadenyangca.analyzer.impl;
+package com.github.jadenyangca.analyzer.impl;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -11,8 +11,8 @@ import java.util.regex.Pattern;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import github.com.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
-import github.com.jadenyangca.analyzer.utils.PropertiesUtil;
+import com.github.jadenyangca.analyzer.interfaces.JSONStringCounterInterface;
+import com.github.jadenyangca.analyzer.utils.PropertiesUtil;
 /**
  * Use regular expression to analyze JSON string if the format is damaged
  * @author Jaden

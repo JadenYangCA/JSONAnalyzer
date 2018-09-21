@@ -1,4 +1,4 @@
-package github.com.jadenyangca.analyzer.interfaces;
+package com.github.jadenyangca.analyzer.interfaces;
 
 import java.io.File;
 import java.util.List;

@@ -1,15 +1,14 @@
-package github.com.jadenyangca.analyzer.utils;
+package com.github.jadenyangca.analyzer.utils;
 
 import java.util.Iterator;
 import java.util.Map;
-import java.util.TreeMap;
 import java.util.concurrent.ConcurrentSkipListMap;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * 
+ * utility class for counter
  * @author Jaden
  */
 public class CounterUtil {
@@ -18,7 +17,7 @@ public class CounterUtil {
 	 * @return sorted tree map
 	 */
 	public static Map<String, Long> getSortedMap() {
-		//concurrent tree map
+		//concurrent sorted tree map
 		Map<String, Long> map = new ConcurrentSkipListMap<String, Long>((str1, str2) -> str1.compareTo(str2));
 		return map;
 	}

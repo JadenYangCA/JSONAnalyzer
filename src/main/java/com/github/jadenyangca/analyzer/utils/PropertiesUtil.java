@@ -1,4 +1,4 @@
-package github.com.jadenyangca.analyzer.utils;
+package com.github.jadenyangca.analyzer.utils;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,6 +10,10 @@ import java.util.Properties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * utility class for solving config.properties
+ * @author Jaden
+ */
 public class PropertiesUtil {
 	private static Logger logger = LogManager.getLogger();
 	
