@@ -14,7 +14,7 @@ import com.github.jadenyangca.analyzer.utils.CounterUtil;
  */
 public class JSONAnalyzer {
 	/**
-	 * @param args arg0- file path of JSON file, arg1- fast or regex 
+	 * @param args arg0- file path or directory that contains json file, arg1- fast or regex 
 	 * 			   fast - Use FastJSON to count metadata types efficiently if JSON file is huge, which can avoid java.lang.OutOfMemoryError.
 	 *             regex - Use regular expression to analyze JSON string if the format is damaged
 	 */
@@ -22,7 +22,7 @@ public class JSONAnalyzer {
 		Logger logger = LogManager.getLogger();
 		
 		if (args.length < 2) {
-			logger.error("* the 1st argument is file path");
+			logger.error("* the 1st argument is json file path or directory");
 			logger.error("* the 2nd argument must be fast or regex");
 			logger.error("** fast  - Use FastJSON to count string efficiently avoiding java.lang.OutOfMemoryError if JSON file is huge.");
 			logger.error("** regex - Use regular expression to solve it if the format of JSON string is damaged");
@@ -46,6 +46,7 @@ public class JSONAnalyzer {
 			}
 
 			long begin = System.currentTimeMillis();
+			
 			boolean isSucc = true;
 			if(file.isFile()) {
 				// count the total number of metadata types across all records

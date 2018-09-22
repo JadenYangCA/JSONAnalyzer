@@ -38,7 +38,7 @@ public class JSONStringCounterFactory {
 				return (JSONStringCounterInterface) Class.forName(className).newInstance();
 			} catch (ClassNotFoundException e) {
 				logger.error("class name is not right. please check it in the configuration file.");
-				logger.error(e);
+//				logger.error(e);
 				return null;
 			} catch (InstantiationException e) {
 				logger.error(e);
